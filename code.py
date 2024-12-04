@@ -1,1 +1,0 @@
-print("ameetha + code")
